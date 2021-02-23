@@ -1,1 +1,3 @@
-# FreeLock_And_MQ
+# Channel
+
+C++ 实现 GoLang channel
